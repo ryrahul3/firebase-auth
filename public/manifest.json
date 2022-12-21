@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Firebase Authentication",
+  "name": "Sample application for firebase authentication (e.g. Google,Facebook, Email/password, & Github)",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "firebase_color_ios_61in76dp.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "firebase_96dp.png",
       "type": "image/png",
       "sizes": "512x512"
     }
